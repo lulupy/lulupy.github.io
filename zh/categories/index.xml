@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on lulu的博客</title>
-    <link>http://127.0.0.1:8085/zh/categories/</link>
+    <link>http://lulupy.github.io/zh/categories/</link>
     <description>Recent content in Categories on lulu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>492035790@qq.com (lulu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
-        <atom:link href="http://127.0.0.1:8085/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://lulupy.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       

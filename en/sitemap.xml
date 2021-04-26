@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1:8085/en/categories/</loc>
+    <loc>http://lulupy.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/categories/"
+                href="http://lulupy.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/categories/"
+                href="http://lulupy.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/en/</loc>
+    <loc>http://lulupy.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/"
+                href="http://lulupy.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/"
+                href="http://lulupy.github.io/en/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/en/series/</loc>
+    <loc>http://lulupy.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/series/"
+                href="http://lulupy.github.io/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/series/"
+                href="http://lulupy.github.io/en/series/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/en/tags/</loc>
+    <loc>http://lulupy.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/tags/"
+                href="http://lulupy.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/tags/"
+                href="http://lulupy.github.io/en/tags/"
                 />
   </url>
 </urlset>

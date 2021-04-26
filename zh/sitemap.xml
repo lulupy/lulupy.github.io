@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1:8085/zh/</loc>
+    <loc>http://lulupy.github.io/zh/</loc>
     <lastmod>2021-04-26T11:28:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/"
+                href="http://lulupy.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/"
+                href="http://lulupy.github.io/zh/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/posts/</loc>
+    <loc>http://lulupy.github.io/zh/posts/</loc>
     <lastmod>2021-04-26T11:28:08+08:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</loc>
+    <loc>http://lulupy.github.io/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2021-04-26T11:28:08+08:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</loc>
+    <loc>http://lulupy.github.io/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</loc>
     <lastmod>2021-04-26T09:28:23+08:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/archive/</loc>
+    <loc>http://lulupy.github.io/zh/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/categories/</loc>
+    <loc>http://lulupy.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/categories/"
+                href="http://lulupy.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/categories/"
+                href="http://lulupy.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/series/</loc>
+    <loc>http://lulupy.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/series/"
+                href="http://lulupy.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/series/"
+                href="http://lulupy.github.io/zh/series/"
                 />
   </url><url>
-    <loc>http://127.0.0.1:8085/zh/tags/</loc>
+    <loc>http://lulupy.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://127.0.0.1:8085/en/tags/"
+                href="http://lulupy.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://127.0.0.1:8085/zh/tags/"
+                href="http://lulupy.github.io/zh/tags/"
                 />
   </url>
 </urlset>
