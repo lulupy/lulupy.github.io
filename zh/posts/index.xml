@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on lulu的博客</title>
-    <link>http://lulupy.github.io/zh/posts/</link>
+    <link>https://lulupy.github.io/zh/posts/</link>
     <description>Recent content in Posts on lulu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 26 Apr 2021 11:28:08 +0800</lastBuildDate>
     
-        <atom:link href="http://lulupy.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lulupy.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>为博客添加评论功能</title>
-        <link>http://lulupy.github.io/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</link>
+        <link>https://lulupy.github.io/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</link>
         <pubDate>Mon, 26 Apr 2021 11:28:08 +0800</pubDate>
         <author>492035790@qq.com (lulu)</author>
         <atom:modified>Mon, 26 Apr 2021 11:28:08 +0800</atom:modified>
-        <guid>http://lulupy.github.io/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</guid>
+        <guid>https://lulupy.github.io/zh/posts/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</guid>
         <description>评论功能对一个博客来说是很重要的. 本文介绍如何为基于hugo构建的博客系统(使用了zzo主题)添加评论功能. zzo主题集成了多种评论系统, 稍</description>
         
         <dc:creator>lulu</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>使用hugo搭建blog</title>
-        <link>http://lulupy.github.io/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</link>
+        <link>https://lulupy.github.io/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</link>
         <pubDate>Mon, 26 Apr 2021 09:28:23 +0800</pubDate>
         <author>492035790@qq.com (lulu)</author>
         <atom:modified>Mon, 26 Apr 2021 09:28:23 +0800</atom:modified>
-        <guid>http://lulupy.github.io/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</guid>
+        <guid>https://lulupy.github.io/zh/posts/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</guid>
         <description>Hugo是由Go语言实现的静态网站生成器. 类似的工具有很多, 比如hexo、jekyll, 为什么选择hugo? hexo比较容易上手，并且有很稳</description>
         
         <dc:creator>lulu</dc:creator>
