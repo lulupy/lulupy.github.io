@@ -1655,13 +1655,42 @@
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="p">[</span><span class="l">utterances]      </span><span class="w"> </span><span class="c"># https://utteranc.es/</span><span class="w">
-</span><span class="w">  </span><span class="l">owner = &#34;lulu_py&#34;             </span><span class="w"> </span><span class="c"># Your GitHub ID</span><span class="w">
-</span><span class="w">  </span><span class="l">repo = &#34;lulupy/lulupy.github.io&#34;              </span><span class="w"> </span><span class="c"># The repo to store comments</span><span class="w">
+</span><span class="w">  </span><span class="l">owner = &#34;lulupy&#34;             </span><span class="w"> </span><span class="c"># Your GitHub ID</span><span class="w">
+</span><span class="w">  </span><span class="l">repo = &#34;lulupy.github.io&#34;              </span><span class="w"> </span><span class="c"># The repo to store comments</span><span class="w">
 </span><span class="w">  </span><span class="l">message = &#34;&#34;     </span><span class="w"> </span><span class="c"># Optional</span><span class="w">
 </span><span class="w">  </span><span class="l">link = &#34;&#34;        </span><span class="w"> </span><span class="c"># Optional</span><span class="w">
 </span></code></pre></td></tr></table>
 </div>
-</div><h2 id="使用valine">使用valine</h2>
+</div><p>然后代码上传只github page之后, 就可以看到评论区了:</p>
+<p><img src="https://raw.githubusercontent.com/lulupy/image-hosting/master/images/20210426144401.png" alt="20210426144401" /></p>
+<h3 id="直接使用utterances">直接使用utterances</h3>
+<p>如果没有用hugo或者没有选择zzo主题, 直接使用也是很方便的, 只需要在你要使用评论的地方，插入以下代码:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">script</span>
+  <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://utteranc.es/client.js&#34;</span>
+  <span class="na">repo</span><span class="o">=</span><span class="s">&#34;lulupy/lulupy.github.io&#34;</span>
+  <span class="na">issue-term</span><span class="o">=</span><span class="s">&#34;pathname&#34;</span>
+  <span class="na">theme</span><span class="o">=</span><span class="s">&#34;github-light&#34;</span>  
+  <span class="na">crossorigin</span><span class="o">=</span><span class="s">&#34;anonymous&#34;</span>
+  <span class="na">async</span>
+<span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>当然, 上诉过程1,2,3步依然需要配置的.</p>
+<h2 id="使用valine">使用valine</h2>
 <p>Valine是一款基于Leancloud的快速、简洁且高效的评论系统.</p>
 <ol>
 <li>创建LearnCloud应用, 选择开发版.</li>
@@ -2426,7 +2455,11 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="false" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#使用utterances">使用utterances</a></li>
+    <li><a href="#使用utterances">使用utterances</a>
+      <ul>
+        <li><a href="#直接使用utterances">直接使用utterances</a></li>
+      </ul>
+    </li>
     <li><a href="#使用valine">使用valine</a></li>
   </ul>
 </nav>
