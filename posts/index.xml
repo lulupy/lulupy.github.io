@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>文章 on lulu的博客</title>
+    <link>https://lulupy.github.io/posts/</link>
+    <description>Recent content in 文章 on lulu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>492035790@qq.com (lulu)</managingEditor>
+    <webMaster>492035790@qq.com (lulu)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 25 Jun 2021 10:36:51 +0800</lastBuildDate>
+    
+        <atom:link href="https://lulupy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>pkg将node项目打包成可执行文件</title>
+        <link>https://lulupy.github.io/posts/pkg%E5%B0%86node%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6/</link>
+        <pubDate>Fri, 25 Jun 2021 10:36:51 +0800</pubDate>
+        <author>492035790@qq.com (lulu)</author>
+        
+        <guid>https://lulupy.github.io/posts/pkg%E5%B0%86node%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6/</guid>
+        <description></description>
+        
+        <dc:creator>lulu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>为博客添加评论功能</title>
+        <link>https://lulupy.github.io/posts/01/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</link>
+        <pubDate>Mon, 26 Apr 2021 11:28:08 +0800</pubDate>
+        <author>492035790@qq.com (lulu)</author>
+        <atom:modified>Mon, 26 Apr 2021 11:28:08 +0800</atom:modified>
+        <guid>https://lulupy.github.io/posts/01/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</guid>
+        <description>评论功能对一个博客来说是很重要的. 本文介绍如何为基于hugo构建的博客系统(使用了zzo主题)添加评论功能. zzo主题集成了多种评论系统, 稍</description>
+        
+        <dc:creator>lulu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>使用hugo搭建blog</title>
+        <link>https://lulupy.github.io/posts/01/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</link>
+        <pubDate>Mon, 26 Apr 2021 09:28:23 +0800</pubDate>
+        <author>492035790@qq.com (lulu)</author>
+        <atom:modified>Mon, 26 Apr 2021 09:28:23 +0800</atom:modified>
+        <guid>https://lulupy.github.io/posts/01/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</guid>
+        <description>Hugo是由Go语言实现的静态网站生成器. 类似的工具有很多, 比如hexo、jekyll, 为什么选择hugo? hexo比较容易上手，并且有很稳</description>
+        
+        <dc:creator>lulu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
